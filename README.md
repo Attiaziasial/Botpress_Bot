@@ -1,4 +1,4 @@
-<img width="897" height="659" alt="Screenshot 2026-02-03 175332" src="https://github.com/user-attachments/assets/6fc19f61-20d2-46b3-aa88-93e932704e2f" />First Create virtual Environment:
+First Create virtual Environment:
 1. Open the folder where the project exists, then in the search bar type cmd
 2. Then type commands when the command prompt opens:
 a)Create Virtual Environment= python -m venv venv
@@ -18,7 +18,6 @@ The chatbot script that we can integrate into code is(it is integrated in my cod
 <script src="https://files.bpcontent.cloud/2026/02/01/19/20260201192035-9CFMRLJ0.js" defer></script>
 
 <img width="897" height="659" alt="Screenshot 2026-02-03 175332" src="https://github.com/user-attachments/assets/07110f97-923b-4110-9d83-7c238a915a76" />
-
 
 Botpress Setup Flow:
 1. Click-> https://botpress.com/features/ai-agent-studio

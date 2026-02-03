@@ -19,9 +19,8 @@ The chatbot script that we can integrate into code is(it is integrated in my cod
 
 <img width="897" height="659" alt="Screenshot 2026-02-03 175332" src="https://github.com/user-attachments/assets/07110f97-923b-4110-9d83-7c238a915a76" />
 
-Botpress Setup Flow:
-1. Click-> https://botpress.com/features/ai-agent-studio     ![Uploading Screenshot 2026-01-26 212451.png…]()
- 
+Botpress Studio Setup to create new chatbot:
+1. Click-> https://botpress.com/features/ai-agent-studio     
 2. Get Started for free
 3. Select Botpress Studio
 4. Name your bot(Click next)->You can also skip this->But I do give name to it

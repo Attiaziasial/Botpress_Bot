@@ -21,6 +21,7 @@ The chatbot script that we can integrate into code is(it is integrated in my cod
 
 Botpress Setup Flow:
 1. Click-> https://botpress.com/features/ai-agent-studio
+![Uploading image.png…]()
 2 . Get Started for free
 3. Select Botpress Studio
 4. Name your bot(Click next)->You can also skip this->But I do give name to it

@@ -17,7 +17,7 @@ The chatbot script that we can integrate into code is(it is integrated in my cod
 <script src="https://cdn.botpress.cloud/webchat/v3.5/inject.js"></script>
 <script src="https://files.bpcontent.cloud/2026/02/01/19/20260201192035-9CFMRLJ0.js" defer></script>
 
-<img width="714" height="658" alt="image" src="https://github.com/user-attachments/assets/d6eb162e-21f4-415c-8a15-cba1bdb31ec2" />
+<img width="897" height="663" alt="image" src="https://github.com/user-attachments/assets/c8bce0d0-d5f8-4a9f-ba2b-4ff02b8c0d5b" />
 
 Botpress Studio Setup to create a new chatbot:
 
